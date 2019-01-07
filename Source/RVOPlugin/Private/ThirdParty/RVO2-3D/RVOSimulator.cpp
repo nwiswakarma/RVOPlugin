@@ -28,6 +28,9 @@
  * United States of America
  *
  * <http://gamma.cs.unc.edu/RVO2/>
+ *
+ * Modified 2018 Nuraga Wiswakarma
+ *
  */
 
 #include "RVOSimulator.h"
